@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizza-redux-toolkit/static/css/main.ffcfdb89.css",
+    "main.js": "/pizza-redux-toolkit/static/js/main.3d629365.js",
+    "Cart.js": "/pizza-redux-toolkit/static/js/Cart.766fd4f9.chunk.js",
+    "FullPizza.js": "/pizza-redux-toolkit/static/js/FullPizza.2e68de4b.chunk.js",
+    "NotFound.css": "/pizza-redux-toolkit/static/css/NotFound.fd1e37bc.chunk.css",
+    "NotFound.js": "/pizza-redux-toolkit/static/js/NotFound.f7d7eb51.chunk.js",
+    "static/media/empty-cart.png": "/pizza-redux-toolkit/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/pizza-redux-toolkit/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizza-redux-toolkit/index.html",
+    "main.ffcfdb89.css.map": "/pizza-redux-toolkit/static/css/main.ffcfdb89.css.map",
+    "main.3d629365.js.map": "/pizza-redux-toolkit/static/js/main.3d629365.js.map",
+    "Cart.766fd4f9.chunk.js.map": "/pizza-redux-toolkit/static/js/Cart.766fd4f9.chunk.js.map",
+    "FullPizza.2e68de4b.chunk.js.map": "/pizza-redux-toolkit/static/js/FullPizza.2e68de4b.chunk.js.map",
+    "NotFound.fd1e37bc.chunk.css.map": "/pizza-redux-toolkit/static/css/NotFound.fd1e37bc.chunk.css.map",
+    "NotFound.f7d7eb51.chunk.js.map": "/pizza-redux-toolkit/static/js/NotFound.f7d7eb51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffcfdb89.css",
+    "static/js/main.3d629365.js"
+  ]
+}
